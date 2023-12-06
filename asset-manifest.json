@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nifa_fine_art_site/static/css/main.f855e6bc.css",
+    "main.js": "/Nifa_fine_art_site/static/js/main.69509b0f.js",
+    "static/js/787.97f4efff.chunk.js": "/Nifa_fine_art_site/static/js/787.97f4efff.chunk.js",
+    "index.html": "/Nifa_fine_art_site/index.html",
+    "main.f855e6bc.css.map": "/Nifa_fine_art_site/static/css/main.f855e6bc.css.map",
+    "main.69509b0f.js.map": "/Nifa_fine_art_site/static/js/main.69509b0f.js.map",
+    "787.97f4efff.chunk.js.map": "/Nifa_fine_art_site/static/js/787.97f4efff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.69509b0f.js"
+  ]
+}
